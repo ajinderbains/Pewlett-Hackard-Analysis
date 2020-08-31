@@ -43,4 +43,5 @@ file  is used to create the following analysis.
 | Managers | 0.005% |0.001% |
 
 - As we have seen that there are there are only 1549 employees to mentor so we can also include more employees in mentorship .
+
  ![chart3](https://github.com/ajinderbains/Pewlett-Hackard-Analysis/blob/master/Resources/empcount1956to1965.png)
